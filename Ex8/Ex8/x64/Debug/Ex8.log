@@ -1,4 +1,0 @@
-﻿  Ex8.cpp
-C:\Users\jurom\source\repos\Ex8\Ex8\WF.h(18,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\jurom\source\repos\Ex8\Ex8\WF.h(19,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-  Ex8.vcxproj -> C:\Users\jurom\source\repos\Ex8\x64\Debug\Ex8.exe
